@@ -1,0 +1,13 @@
+# Unity Directories
+Temp
+Library
+
+# Unity Files
+*.booproj
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+
+# Vim Files
+*.sw?
